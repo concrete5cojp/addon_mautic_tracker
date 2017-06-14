@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+    <singlepages>
+        <page name="Mautic Tracker" path="/dashboard/system/mautic_tracker"
+              filename="/dashboard/system/mautic_tracker/view.php" pagetype="" description=""
+              package="mautic_tracker"></page>
+        <page name="Settings" path="/dashboard/system/mautic_tracker/settings"
+              filename="/dashboard/system/mautic_tracker/settings.php" pagetype="" description=""
+              package="mautic_tracker"></page>
+    </singlepages>
+</concrete5-cif>
