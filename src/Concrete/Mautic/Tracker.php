@@ -67,5 +67,6 @@ class Tracker extends Asset
     mt('send', 'pageview', %s);
 </script>", $this->url, json_encode($this->parameters));
         }
+        return '';
     }
 }
